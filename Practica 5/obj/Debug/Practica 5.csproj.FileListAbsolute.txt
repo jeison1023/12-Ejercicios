@@ -1,0 +1,11 @@
+C:\Users\Jonz1\OneDrive\Escritorio\Nueva carpeta\OneDrive\Documentos\GitHub\Practica-de-c-\Practica de los 8 proyecto\Practica 5\bin\Debug\Practica 5.exe.config
+C:\Users\Jonz1\OneDrive\Escritorio\Nueva carpeta\OneDrive\Documentos\GitHub\Practica-de-c-\Practica de los 8 proyecto\Practica 5\bin\Debug\Practica 5.exe
+C:\Users\Jonz1\OneDrive\Escritorio\Nueva carpeta\OneDrive\Documentos\GitHub\Practica-de-c-\Practica de los 8 proyecto\Practica 5\bin\Debug\Practica 5.pdb
+C:\Users\Jonz1\OneDrive\Escritorio\Nueva carpeta\OneDrive\Documentos\GitHub\Practica-de-c-\Practica de los 8 proyecto\Practica 5\obj\Debug\Practica 5.csproj.AssemblyReference.cache
+C:\Users\Jonz1\OneDrive\Escritorio\Nueva carpeta\OneDrive\Documentos\GitHub\Practica-de-c-\Practica de los 8 proyecto\Practica 5\obj\Debug\Practica_5.Form1.resources
+C:\Users\Jonz1\OneDrive\Escritorio\Nueva carpeta\OneDrive\Documentos\GitHub\Practica-de-c-\Practica de los 8 proyecto\Practica 5\obj\Debug\Practica_5.Properties.Resources.resources
+C:\Users\Jonz1\OneDrive\Escritorio\Nueva carpeta\OneDrive\Documentos\GitHub\Practica-de-c-\Practica de los 8 proyecto\Practica 5\obj\Debug\Practica 5.csproj.GenerateResource.cache
+C:\Users\Jonz1\OneDrive\Escritorio\Nueva carpeta\OneDrive\Documentos\GitHub\Practica-de-c-\Practica de los 8 proyecto\Practica 5\obj\Debug\Practica 5.csproj.CoreCompileInputs.cache
+C:\Users\Jonz1\OneDrive\Escritorio\Nueva carpeta\OneDrive\Documentos\GitHub\Practica-de-c-\Practica de los 8 proyecto\Practica 5\obj\Debug\Practica 5.exe
+C:\Users\Jonz1\OneDrive\Escritorio\Nueva carpeta\OneDrive\Documentos\GitHub\Practica-de-c-\Practica de los 8 proyecto\Practica 5\obj\Debug\Practica 5.pdb
+C:\Users\Jonz1\OneDrive\Escritorio\Nueva carpeta\OneDrive\Documentos\GitHub\Practica-de-c-\Practica de los 8 proyecto\Practica 5\obj\Debug\Practica 5.exe.config
